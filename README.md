@@ -8,5 +8,7 @@ Domain :- visualization
 In this task I have performed :
 
 1] Data Exploration
+
 2] Data Cleaning and Data Preprocessing
+
 3] Data Visualization using Histogram and Barplot
