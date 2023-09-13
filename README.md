@@ -3,7 +3,7 @@ TASK - Create a bar chart or histogram to visualize the distribution of a catego
 
 - Project :- World population
 
-- Domain :- visualization
+- Domain :- Visualization
 
 In this task I have performed :
 
